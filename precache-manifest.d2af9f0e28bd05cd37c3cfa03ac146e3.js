@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c79b15d337e69cbee328d868aa713a7",
+    "revision": "aa1c2cd6675d8a9a9fea506c129aa45a",
     "url": "/skylinkjs-poc/index.html"
   },
   {
-    "revision": "aeae82aa72ff2cde492e",
+    "revision": "91d5a4c066b77e5b9715",
     "url": "/skylinkjs-poc/static/css/2.ff73b68e.chunk.css"
   },
   {
-    "revision": "783c5fad4dd0462869bb",
+    "revision": "dac9220e009662b991a9",
     "url": "/skylinkjs-poc/static/css/main.d00f2dfe.chunk.css"
   },
   {
-    "revision": "aeae82aa72ff2cde492e",
-    "url": "/skylinkjs-poc/static/js/2.34793618.chunk.js"
+    "revision": "91d5a4c066b77e5b9715",
+    "url": "/skylinkjs-poc/static/js/2.826ee899.chunk.js"
   },
   {
     "revision": "e070515226f3a97f199a7c82a660a41b",
-    "url": "/skylinkjs-poc/static/js/2.34793618.chunk.js.LICENSE"
+    "url": "/skylinkjs-poc/static/js/2.826ee899.chunk.js.LICENSE"
   },
   {
-    "revision": "783c5fad4dd0462869bb",
-    "url": "/skylinkjs-poc/static/js/main.7aead312.chunk.js"
+    "revision": "dac9220e009662b991a9",
+    "url": "/skylinkjs-poc/static/js/main.71de827b.chunk.js"
   },
   {
     "revision": "9cde498bf70037ceab23",
