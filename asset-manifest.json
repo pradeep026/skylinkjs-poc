@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/skylinkjs-poc/static/css/main.d00f2dfe.chunk.css",
-    "main.js": "/skylinkjs-poc/static/js/main.8ceecbff.chunk.js",
-    "main.js.map": "/skylinkjs-poc/static/js/main.8ceecbff.chunk.js.map",
+    "main.js": "/skylinkjs-poc/static/js/main.138b2aae.chunk.js",
+    "main.js.map": "/skylinkjs-poc/static/js/main.138b2aae.chunk.js.map",
     "runtime-main.js": "/skylinkjs-poc/static/js/runtime-main.51dbbe97.js",
     "runtime-main.js.map": "/skylinkjs-poc/static/js/runtime-main.51dbbe97.js.map",
     "static/css/2.ff73b68e.chunk.css": "/skylinkjs-poc/static/css/2.ff73b68e.chunk.css",
     "static/js/2.34793618.chunk.js": "/skylinkjs-poc/static/js/2.34793618.chunk.js",
     "static/js/2.34793618.chunk.js.map": "/skylinkjs-poc/static/js/2.34793618.chunk.js.map",
     "index.html": "/skylinkjs-poc/index.html",
-    "precache-manifest.2c85a355b3d4aaed1466bc2fe9520533.js": "/skylinkjs-poc/precache-manifest.2c85a355b3d4aaed1466bc2fe9520533.js",
+    "precache-manifest.71047c60a473d1d574a47ce457e35770.js": "/skylinkjs-poc/precache-manifest.71047c60a473d1d574a47ce457e35770.js",
     "service-worker.js": "/skylinkjs-poc/service-worker.js",
     "static/css/2.ff73b68e.chunk.css.map": "/skylinkjs-poc/static/css/2.ff73b68e.chunk.css.map",
     "static/css/main.d00f2dfe.chunk.css.map": "/skylinkjs-poc/static/css/main.d00f2dfe.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.ff73b68e.chunk.css",
     "static/js/2.34793618.chunk.js",
     "static/css/main.d00f2dfe.chunk.css",
-    "static/js/main.8ceecbff.chunk.js"
+    "static/js/main.138b2aae.chunk.js"
   ]
 }
